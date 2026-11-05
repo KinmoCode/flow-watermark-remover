@@ -1,0 +1,10 @@
+{
+  "name": "flow-watermark-remover-engine",
+  "version": "1.0.0",
+  "description": "In-browser WebCodecs reverse alpha blending engine and 720p/1080p calibration notes for Google Flow and Veo diamond watermarks",
+  "type": "module",
+  "main": "./vendor/index.js",
+  "types": "./vendor/index.d.ts",
+  "homepage": "https://flowwatermarkremover.com",
+  "license": "MIT"
+}
